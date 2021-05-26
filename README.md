@@ -78,7 +78,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=AsP3X&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=asp3x&show_icons=true&hide_border=true" />
 
 </details>
 
