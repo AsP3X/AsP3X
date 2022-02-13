@@ -34,10 +34,12 @@
 ## 📘 My top open source projects
 
 <p align="left">
-  <a href="https://github.com/AsP3X/ehrekonto_api"><img width="282" src="https://github-readme-stats-asp3x.vercel.app/api/pin/?username=AsP3X&repo=ehrekonto_api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ehrekonto_api"></a>
-  <a href="https://github.com/AsP3X/CryptoCore_scrape"><img width="282" src="https://github-readme-stats-asp3x.vercel.app/api/pin/?username=AsP3X&repo=CryptoCore_scraper&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/corespace-security/crat_daemon"><img width="282" src="https://github-readme-stats-asp3x.vercel.app/api/pin?username=corespace-security&repo=crat_daemon&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/AsP3X/papermc"><img width="282" src="https://github-readme-stats-asp3x.vercel.app/api/pin/?username=AsP3X&repo=papermc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/corespace-ehrekonto/ehrekonto_api"><img width="282" src="https://github-readme-stats-asp3x-profile.vercel.app/api/pin/?username=corespace-ehrekonto&repo=ehrekonto_api&theme=react&bg_color=2B4162&title_color=D7B377&icon_color=C8E087&hide_border=true&show_icons=false" alt="ehrekonto_api"></a>
+  <a href="https://github.com/corespace-ehrekonto/ehrekonto_web"><img width="282" src="https://github-readme-stats-asp3x-profile.vercel.app/api/pin/?username=corespace-ehrekonto&repo=ehrekonto_web&theme=react&bg_color=2B4162&title_color=D7B377&icon_color=C8E087&hide_border=true&show_icons=false" alt="ehrekonto_api"></a>
+  <a href="https://github.com/AsP3X/corespace_cdn"><img width="282" src="https://github-readme-stats-asp3x-profile.vercel.app/api/pin/?username=AsP3X&repo=corespace_cdn&theme=react&bg_color=2B4162&title_color=D7B377&icon_color=C8E087&hide_border=true&show_icons=false" alt="ehrekonto_api"></a>
+  <a href="https://github.com/AsP3X/CryptoCore_scrape"><img width="282" src="https://github-readme-stats-asp3x-profile.vercel.app/api/pin/?username=AsP3X&repo=CryptoCore_scraper&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/corespace-security/crat_daemon"><img width="282" src="https://github-readme-stats-asp3x-profile.vercel.app/api/pin?username=corespace-security&repo=crat_daemon&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/AsP3X/papermc"><img width="282" src="https://github-readme-stats-asp3x-profile.vercel.app/api/pin/?username=AsP3X&repo=papermc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
 </p>
 
 <p align="left">
@@ -46,7 +48,7 @@
 
 <!-- ## 📕 Top projects I've contributed to
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://github-readme-stats-asp3x.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://github-readme-stats-asp3x-profile.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
 </p>
 
 <p align="left">
@@ -90,6 +92,7 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Socket.IO" src="https://custom-icon-badges.herokuapp.com/badge/Socket.IO-025E8C.svg?logo=socketdotio"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
@@ -106,6 +109,10 @@
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="Webtropia" src="https://img.shields.io/badge/Webtropia-000000.svg?titleColor=FAFAFA&color=EF6C00"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-000000.svg?logo=wordpress&titleColor=FAFAFA&color=3F51B5"></a>
+    <a href="#"><img alt="Neos CMS" src="https://img.shields.io/badge/Neos%20CMS-000000.svg?logo=typo3&titleColor=FF8F00&color=3F51B5"></a>
+
 </p>
 
 ### 💻 Software and tools
@@ -124,6 +131,8 @@
     <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=flat&labelColor=blueviolet&logo=insomnia&logoColor=white&logoWidth=30&link=https://affinity.serif.com/de/&link=https://affinity.serif.com/de/"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=white&color=0D47A1"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-0078d7.svg?logo=intellijidea&logoColor=1E88E5&color=424242"></a>
 </p>
 
 ## 📊 Github stats
@@ -132,8 +141,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AsP3X's Github Stats" src="https://github-readme-stats-asp3x.vercel.app/api/?username=AsP3X&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AsP3X's Top Languages" src="https://github-readme-stats-asp3x.vercel.app/api/top-langs/?username=AsP3X&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AsP3X's Github Stats" src="https://github-readme-stats-asp3x-profile.vercel.app/api/?username=AsP3X&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AsP3X's Top Languages" src="https://github-readme-stats-asp3x-profile.vercel.app/api/top-langs/?username=AsP3X&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
