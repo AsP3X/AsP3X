@@ -34,12 +34,12 @@
 ## 📘 My top open source projects
 
 <p align="left">
-  <a href="https://github.com/corespace-ehrekonto/ehrekonto_api"><img width="282" src="https://github-readme-stats-xi-taupe.vercel.app/api/pin/?username=corespace-ehrekonto&repo=ehrekonto_api&theme=react&bg_color=2B4162&title_color=D7B377&icon_color=C8E087&hide_border=true&show_icons=false" alt="ehrekonto_api"></a>
-  <a href="https://github.com/corespace-ehrekonto/ehrekonto_web"><img width="282" src="https://github-readme-stats-xi-taupe.vercel.app/api/pin/?username=corespace-ehrekonto&repo=ehrekonto_web&theme=react&bg_color=2B4162&title_color=D7B377&icon_color=C8E087&hide_border=true&show_icons=false" alt="ehrekonto_api"></a>
-  <a href="https://github.com/AsP3X/corespace_cdn"><img width="282" src="https://github-readme-stats-xi-taupe.vercel.app/api/pin/?username=AsP3X&repo=corespace_cdn&theme=react&bg_color=2B4162&title_color=D7B377&icon_color=C8E087&hide_border=true&show_icons=false" alt="ehrekonto_api"></a>
-  <a href="https://github.com/AsP3X/CryptoCore_scrape"><img width="282" src="https://github-readme-stats-xi-taupe.vercel.app/api/pin/?username=AsP3X&repo=CryptoCore_scraper&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/corespace-security/crat_daemon"><img width="282" src="https://github-readme-stats-xi-taupe.vercel.app/api/pin?username=corespace-security&repo=crat_daemon&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/AsP3X/papermc"><img width="282" src="https://github-readme-stats-xi-taupe.vercel.app/api/pin/?username=AsP3X&repo=papermc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/corespace-ehrekonto/ehrekonto_api"><img width="282" src="https://github-readme-stats-iota-seven-97.vercel.app/api/pin/?username=corespace-ehrekonto&repo=ehrekonto_api&theme=react&bg_color=2B4162&title_color=D7B377&icon_color=C8E087&hide_border=true&show_icons=false" alt="ehrekonto_api"></a>
+  <a href="https://github.com/corespace-ehrekonto/ehrekonto_web"><img width="282" src="https://github-readme-stats-iota-seven-97.vercel.app/api/pin/?username=corespace-ehrekonto&repo=ehrekonto_web&theme=react&bg_color=2B4162&title_color=D7B377&icon_color=C8E087&hide_border=true&show_icons=false" alt="ehrekonto_api"></a>
+  <a href="https://github.com/AsP3X/corespace_cdn"><img width="282" src="https://github-readme-stats-iota-seven-97.vercel.app/api/pin/?username=AsP3X&repo=corespace_cdn&theme=react&bg_color=2B4162&title_color=D7B377&icon_color=C8E087&hide_border=true&show_icons=false" alt="ehrekonto_api"></a>
+  <a href="https://github.com/AsP3X/CryptoCore_scrape"><img width="282" src="https://github-readme-stats-iota-seven-97.vercel.app/api/pin/?username=AsP3X&repo=CryptoCore_scraper&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/corespace-security/crat_daemon"><img width="282" src="https://github-readme-stats-iota-seven-97.vercel.app/api/pin?username=corespace-security&repo=crat_daemon&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/AsP3X/papermc"><img width="282" src="https://github-readme-stats-iota-seven-97.vercel.app/api/pin/?username=AsP3X&repo=papermc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
 </p>
 
 <p align="left">
